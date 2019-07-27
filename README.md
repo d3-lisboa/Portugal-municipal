@@ -2,10 +2,10 @@
 
 ## Ideas for recreation 
 
-Using the paralle coordinate visualization 
+Using the parallel coordinate visualization 
 
-[Code exmaple](https://observablehq.com/@d3/parallel-coordinates?collection=@observablehq/visualization)
+[Observable example - Parallel Coordinate](https://observablehq.com/@d3/parallel-coordinates?collection=@observablehq/visualization)
 
 Applying to the chart a highlighting scheme similar to this one  
 
-[Code exmaple](https://observablehq.com/@d3/parallel-coordinates?collection=@observablehq/visualization)
+[Observable example - Multi Line Chart](https://observablehq.com/@d3/parallel-coordinates?collection=@observablehq/visualization)
